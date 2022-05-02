@@ -174,3 +174,14 @@ a {
     font-weight: 700;
 }
 
+.footer {
+    background-color: #1F2937;
+}
+
+.footer p {
+    padding: 24px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
