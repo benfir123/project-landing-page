@@ -118,7 +118,7 @@ a {
 }
 
 .quote {
-    padding: 70px 280px 70px 280px;
+    padding: 70px 120px;
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
