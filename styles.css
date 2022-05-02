@@ -76,7 +76,7 @@ a {
     filter: contrast(75%);
 }
 
-button {
+.hero button {
     background-color: #3382F6;
     color: white;
     border-color: transparent;
@@ -135,3 +135,42 @@ button {
     font-weight: 700;
     align-self: flex-end;
 }
+
+.cta {
+    margin: 90px 120px 90px 120px;
+    color: white;
+}
+
+.cta h3 {
+    margin: 0px;
+}
+
+.cta > div {
+    background-color: #3382F6;
+    border-radius: 5px;
+    border-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 40px;
+}
+
+.cta div div {
+    display: flex;
+    flex-direction: column;
+}
+
+.cta p {
+    margin: 0px;
+    filter: contrast(70%);
+}
+
+.cta button {
+    border-radius: 6px;
+    border: white solid 2px;
+    color: white;
+    background-color: #3382F6;
+    align-self: center;
+    padding: 4px 20px 4px 20px;
+    font-weight: 700;
+}
+
